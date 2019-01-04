@@ -1,9 +1,7 @@
 # React Developer Idea Generator
 
 ## Main Dependencies 
-React
-Radium
-React Material UI
+React, Radium, React Material UI
 
 
 This project was scaffolded with create-react-app to be a small demo to use Material UI in a React application. 
